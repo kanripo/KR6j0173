@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 大金色孔雀王經
+#+DATE: 2015-08-30 20:27:15.781865
+#+PROPERTY: JUAN 0

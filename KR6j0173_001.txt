@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:27:15.573338
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:28
 #+TITLE: 大金色孔雀王呪經
 #+PROPERTY: CBETA_ID T19n0986
 #+PROPERTY: ID KR6j0173
